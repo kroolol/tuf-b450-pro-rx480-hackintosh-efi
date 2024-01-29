@@ -44,6 +44,31 @@ System Disk: KIOXIA EXCERIA NVMe SSD 250 GB
         <td>Sonoma 14.3</td>
     </tr>
     <tr>
+
+    <article>
+  <header>
+    <h1>Features</h1>
+
+
+
+
+Ryzen Power Management (You also need to install the AMD Power Gadget app.)
+
+
+GPU Acceleration
+
+
+Ethernet
+
+
+Apple Services (Serial number may need to be regenerted.)
+
+
+Audio (Depending on the audio equipment (headphones an etc.) you are using "layout id" value may need to be changed.)
+
+
+
+
         
 
 
