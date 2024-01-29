@@ -1,6 +1,8 @@
-# TUF B450 PRO Hackintosh EFI V2
+<article>
+<header>
+    <h1>TUF B450 PRO Hackintosh EFI V2</h1>
 
-
+    
 Specs:
 
 CPU: AMD Ryzen 3 3100
