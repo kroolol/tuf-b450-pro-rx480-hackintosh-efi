@@ -2,7 +2,8 @@
 <header>
     <h1>TUF B450 PRO Hackintosh EFI V2</h1>
 
-    
+
+
 Specs:
 
 CPU: AMD Ryzen 3 3100
@@ -19,6 +20,27 @@ GPU: ASUS ROG STRIX GAMING RX 480/580 8 GB
 
 System Disk: KIOXIA EXCERIA NVMe SSD 250 GB
 
+
+<article>
+  <header>
+    <h1>Tested Versions</h1>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+</head>
+<body>
+ 
+<table border=1>
+    <tr>
+        <td>Sonoma 14.3</td>
+    </tr>
+    <tr>
+        
 
 
 
