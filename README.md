@@ -45,9 +45,17 @@ System Disk: KIOXIA EXCERIA NVMe SSD 250 GB
     </tr>
     <tr>
 
+    
+
+
+
+
+
+
+
     <article>
   <header>
-    <h1>Features</h1>
+     <h1>Features</h1>
 
 
 
