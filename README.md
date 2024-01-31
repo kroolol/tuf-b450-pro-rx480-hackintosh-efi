@@ -96,6 +96,39 @@ Audio (Depending on the audio equipment (headphones an etc.) you are using "layo
 
 
 
+
+<article>
+   <header>
+     <h1>Possible Issues</h1>
+
+
+
+
+
+
+<table border="1">
+    <body>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Causes</td>
+            <td>Solution<br />
+            </td>
+        </tr>
+        <tr>
+            <td>High CPU temperature when system is idle</td>
+            <td>A mismatch problem caused by the kext responsible for power management.</td>
+            <td>Downgrade to Ventura or use it this way until the developer fixes the kext.</td>
+    </body>
+</table> 
+
+
+
+
+
+
+
+
+
         
 
 
