@@ -9,7 +9,7 @@ Specs:
 CPU: AMD Ryzen 3 3100
 
 
-Motheroard: ASUS TUF GAMING B450 PRO (BIOS Ver. 4401)
+Motherboard: ASUS TUF GAMING B450 PRO (BIOS Ver. 4401)
 
 
 Memory: 8 GB DDR4 3200 MHz
