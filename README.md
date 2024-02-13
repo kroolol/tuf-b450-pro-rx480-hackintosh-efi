@@ -48,9 +48,10 @@ System Disk: KIOXIA EXCERIA NVMe SSD 250 GB
  
 <table border=1>
     <tr>
+        <td>Ventura 13.6</td>
+    <tr>
         <td>Sonoma 14.3</td>
     </tr>
-    <tr>
 
 
 
