@@ -26,7 +26,7 @@ System Disk: KIOXIA EXCERIA NVMe SSD 250 GB
 
 
 
-<img src="https://cdn.discordapp.com/attachments/1048295437444059187/1201462963035443210/Ekran_Resmi_2024-01-29_12.16.48.png?ex=65c9e894&is=65b77394&hm=18425ebdd9eb3d7e57b4625092aafe8e35c3ac70086531a81153e41c07603d58&">
+<img src="https://media.discordapp.net/attachments/1048295437444059187/1215633952769970186/Screenshot_2024-03-08_at_3.14.11_PM.png?ex=65fd7657&is=65eb0157&hm=4d0cb01b608ac2bc55194eb3d5957c5de269c1e26afa73fb50dc66e072f92440&=&format=webp&quality=lossless&width=832&height=468">
 
 
 
