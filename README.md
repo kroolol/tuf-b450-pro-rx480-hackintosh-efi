@@ -29,6 +29,10 @@ System Disk: Samsung SSD 750 EVO 250 GB
 ![Screenshot 2025-04-15 at 12 31 22](https://github.com/user-attachments/assets/d7e02836-0d4e-436b-88d8-381284b85895)
 
 
+![image](https://github.com/user-attachments/assets/9d22491c-df05-437c-85c7-41455967aabf)
+
+
+
 
 
 
