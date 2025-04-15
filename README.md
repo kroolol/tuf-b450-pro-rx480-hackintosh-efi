@@ -18,7 +18,7 @@ Memory: GSkill Trident Z RGB 16 GB 3600 MHz DDR4
 GPU: ASUS ROG STRIX GAMING RX 480/580 8 GB
 
 
-System Disk: KIOXIA EXCERIA NVMe SSD 250 GB
+System Disk: Samsung SSD 750 EVO 250 GB
 
 
 
